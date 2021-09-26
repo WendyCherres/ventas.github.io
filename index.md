@@ -4,12 +4,8 @@ You can use the [editor on GitHub](https://github.com/WendyCherres/ventas.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Visión
+Ser pioneros en el campo tecnológico con estrategias innovadoras que promueven el desarrollo humano
 
 # Header 1
 ## Header 2
