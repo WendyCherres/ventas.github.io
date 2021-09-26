@@ -1,11 +1,12 @@
-## Welcome to GitHub Pages
+<b>Nuestra Empresa</b>
 
-You can use the [editor on GitHub](https://github.com/WendyCherres/ventas.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-dfghdfgdfdfdfhdfhdfhdfhdfhdfh
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can use the [editor on GitHub](https://github.com/WendyCherres/ventas.github.io/edit/gh-pages/index.md) 
 
-<b>Visión</b><br>
+<b>Visión</b></br>
 Ser pioneros en el campo tecnológico con estrategias innovadoras que promueven el desarrollo humano
+
+<b>Misión</b></br>
+Ofrecer tecnología apoyados en un equipo humano y cálido que trabaja con transparencia y entusiasmo.
 
 # Header 1
 ## Header 2
